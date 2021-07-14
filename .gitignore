@@ -1,0 +1,14 @@
+*.pyc
+*.egg-info
+dist
+build
+cover
+_build
+_patch
+*.nc
+*.copy
+Untitled*ipynb
+.ipynb_checkpoints
+.coverage
+.streamlit
+.mypy_cache
